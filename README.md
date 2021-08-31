@@ -1,5 +1,5 @@
 <p align="center">Happy to see you 🎉<p>
-<p align="center">you cna find me here 👇<p>
+<p align="center">You can know me more here 👇<p>
 <div align="center"><a href="https://yuzhouu.github.io" target="_blank">Blog</a></div>
 <!--
 **coocooooo/coocooooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
