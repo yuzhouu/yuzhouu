@@ -1,5 +1,6 @@
 ### :tada::tada::tada:
 
+<div style="text-align:center;width:100%;"><a href="https://yuzhouu.github.io" target="_blank">Blog</a></div>
 <!--
 **coocooooo/coocooooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
